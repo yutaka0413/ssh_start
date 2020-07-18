@@ -1,2 +1,2 @@
 #!/bin/sh
-ansible-playbook authorizedkeyconf.yml
+sudo rm -rf ~/.ssh/known_hosts
